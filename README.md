@@ -1,3 +1,4 @@
 # Start-With-DockerDesktop
-Repository descrittiva per installare ed eseguire il primo docker run
-[Setup ](docs/CONTRIBUTING.md)
+<p>Repository descrittiva per installare ed eseguire il primo docker run in ambiente Windows
+Al primo avvio ci sarà anche un mini tutorial guidato di Docker desktop</p>
+[Setup](Setup.md)
